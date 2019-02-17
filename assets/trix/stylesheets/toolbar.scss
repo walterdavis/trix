@@ -126,6 +126,8 @@ trix-toolbar {
   .trix-button--icon-strike::before { background-image: $icon-strike; }
   .trix-button--icon-quote::before { background-image: $icon-quote; }
   .trix-button--icon-heading-1::before { background-image: $icon-heading-1; }
+  .trix-button--icon-heading-2::before { background-image: $icon-heading-2; }
+  .trix-button--icon-heading-3::before { background-image: $icon-heading-3; }
   .trix-button--icon-code::before { background-image: $icon-code; }
   .trix-button--icon-bullet-list::before { background-image: $icon-bullets; }
   .trix-button--icon-number-list::before { background-image: $icon-numbers; }

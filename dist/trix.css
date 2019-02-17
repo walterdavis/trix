@@ -302,6 +302,14 @@ trix-editor .attachment__metadata {
   .trix-content * {
     box-sizing: border-box; }
   .trix-content h1 {
+    font-size: 1.6em;
+    line-height: 1.6;
+    margin: 0; }
+  .trix-content h2 {
+    font-size: 1.4em;
+    line-height: 1.4;
+    margin: 0; }
+  .trix-content h3 {
     font-size: 1.2em;
     line-height: 1.2;
     margin: 0; }
